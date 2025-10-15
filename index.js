@@ -1,6 +1,6 @@
 import express from "express";
 const app = express();
-//This creates a server running 
+//This creates a server running on our
 const port = 3000;
 
 
